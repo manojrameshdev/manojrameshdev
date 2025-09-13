@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 💬 Ask me about **C, Python, Java, HTML, CSS, Javascript, ps**
+ 💬 Ask me about **Ps, C, Python, Java, HTML, CSS, Javascript**
 
   </div>
  
@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,mysql,git,vscode,ps" />
+    <img src="https://skillicons.dev/icons?i=ps,c,python,java,html,css,js,mysql,git,vscode" />
 </div>
 
 <br/>
